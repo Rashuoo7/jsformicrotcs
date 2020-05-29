@@ -6,6 +6,6 @@ new Vue({
       { id: 1, text: 'Cheese' },
       { id: 2, text: 'Whatever else humans are supposed to eat' }
     ]
-   
+    
   }
 })

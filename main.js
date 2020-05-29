@@ -1,8 +1,10 @@
 new Vue({
   el: '#app',
   data: {
-    officelinks: [ 
-      { link : 'https://bit.ly/2M8AeIs' }
+    groceryList: [
+      { id: 0, text: 'Vegetables' },
+      { id: 1, text: 'Cheese' },
+      { id: 2, text: 'Whatever else humans are supposed to eat' }
     ]
    
   }

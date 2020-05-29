@@ -3,7 +3,7 @@ Vue.component('todo-item', {
   template: '<li>{{ todo.text }}</li>'
 })
 
-var app = new Vue({
+new Vue({
   el: '#app',
   data: {
     groceryList: [
